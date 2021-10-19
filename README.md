@@ -8,6 +8,8 @@
 
 #### These are some of my notable projects:
 
-< insert stuff here omegaLUL >
+< insert stuff here lol >
 
 #### and finally, these are the tools and languages I use:
+
+< insert more stuff here lol >
