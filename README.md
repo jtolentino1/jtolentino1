@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-![topLangs](https://github-readme-stats-ochre-zeta.vercel.app/api/top-langs/?username=jtolentino1&custom_title)
+![topLangs](https://github-readme-stats-ochre-zeta.vercel.app/api/top-langs/?username=jtolentino1&theme=graywhite)
