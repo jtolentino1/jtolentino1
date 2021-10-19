@@ -1,7 +1,7 @@
-# Hi there 👋
+# Hi there 👋 my name is Joshua Tolentino
 
-### My name is Joshua Tolentino!
+## Here's some info about me:
 
-#### Here are my top languages:
+#### These are my top languages to date:
 
 ![topLangs](https://github-readme-stats-ochre-zeta.vercel.app/api/top-langs/?username=jtolentino1&hide_title=true&card_width=500)
