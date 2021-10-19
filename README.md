@@ -4,4 +4,4 @@
 
 #### This is a chart showing the languages I've used for my repos:
 
-![topLangs](https://github-readme-stats-ochre-zeta.vercel.app/api/top-langs/?username=jtolentino1&hide_title=true&card_width=500)
+![topLangs](https://github-readme-stats-ochre-zeta.vercel.app/api/top-langs/?username=jtolentino1&hide_title=true&card_width=500&theme=gradient)
