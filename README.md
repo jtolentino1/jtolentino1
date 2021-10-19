@@ -1,6 +1,6 @@
-# Hi there 👋 my name is Joshua Tolentino
+# Hi there 👋 here's some info about me!
 
-## Here's some info about me:
+#### My name is Joshua Tolentino, and I'm currently studying Computer Science at the University of Calgary 
 
 #### These are my top languages to date:
 
