@@ -10,6 +10,7 @@
 
 < insert stuff here lol >
 
-#### and finally, these are the tools and languages I use:
+#### and finally, these are the tools and languages I use heavily:
 
-< insert more stuff here lol >
+Languages: Java, Python, C, Swift
+Tools: Eclipse, VSCode, Xcode, Git
