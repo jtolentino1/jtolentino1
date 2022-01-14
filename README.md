@@ -10,7 +10,7 @@
 
 https://github.com/jtolentino1/Outdoors
 
-#### and finally, these are the tools and languages I use heavily:
+#### and finally, these are the tools and languages I use a lot:
 
 Languages: Java, Python, C, Swift
 
