@@ -6,10 +6,10 @@
 
 ![topLangs](https://github-readme-stats-ochre-zeta.vercel.app/api/top-langs/?username=jtolentino1&hide_title=true&card_width=500)
 
-#### here are some of my cool projects:
+#### Here are some of my cool projects:
 
 https://github.com/jtolentino1/Outdoors
 
-#### and finally, these are the tools and languages I use a lot:
+#### And finally, these are the tools and languages I use a lot:
 
 Languages: Java, Python, C, Swift
