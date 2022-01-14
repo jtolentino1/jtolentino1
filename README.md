@@ -6,9 +6,9 @@
 
 ![topLangs](https://github-readme-stats-ochre-zeta.vercel.app/api/top-langs/?username=jtolentino1&hide_title=true&card_width=500)
 
-#### These are some of my notable projects:
+#### These are some of my projects:
 
-< insert stuff here lol >
+https://github.com/jtolentino1/Outdoors
 
 #### and finally, these are the tools and languages I use heavily:
 
