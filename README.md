@@ -1,13 +1,15 @@
 # Hi there 👋 here's some info about me!
 
-[LinkedIn](https://www.linkedin.com/in/jtolentino2/)
+## Background 🌎
+
+I'm currently a student at the University of Calgary pursuing a B.S in Computer Science! To find out more about me, feel free to check out my [LinkedIn](https://www.linkedin.com/in/jtolentino2/) and connect with me!
 
 ## Frequently Used Languages 📊
-#### This chart shows the top languages I have frequently used for my projects (tracks in real time!)
+This chart shows the top languages I have frequently used for my projects (tracks in real time!)
 
 ![topLangs](https://github-readme-stats-ochre-zeta.vercel.app/api/top-langs/?username=jtolentino1&hide_title=true&card_width=400)
 
-#### Most of my repos are private, but just ask me to showcase my projects and I'll be happy to walk you through! 😊
+Most of my repos are private, but just ask me to showcase my projects and I'll be happy to walk you through! 😊
 
 ## What I'm currently doing
 
