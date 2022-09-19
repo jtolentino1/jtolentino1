@@ -11,7 +11,7 @@ This chart shows the top languages that I have frequently used for my projects (
 
 Most of my repos are private, but just ask me to showcase my projects and I'll be happy to walk you through! 😊
 
-## What I'm Currently Doing
+## What I'm Currently Doing 😁
 
 - Polishing my app development skills 📱
 
