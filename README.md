@@ -1,5 +1,7 @@
 # Hi there 👋 here's some info about me!
 
+[LinkedIn](https://www.linkedin.com/in/jtolentino2/)
+
 ## Frequently Used Languages 📊
 #### This chart shows the top languages I have frequently used for my projects (tracks in real time!)
 
@@ -7,7 +9,7 @@
 
 #### Most of my repos are private, but just ask me to showcase my projects and I'll be happy to walk you through! 😊
 
-## What I'm currently doing: 
+## What I'm currently doing
 
 • Polishing my app development skills 📱
 
