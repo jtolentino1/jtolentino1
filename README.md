@@ -11,8 +11,13 @@
 ## What I'm up to:
 
 • Polishing my app development skills 📱
+
 • Grinding Leetcode problems 👨🏻‍💻📖
+
 • Sending tech memes to my friends 😂
+
 • Figuring out whether or not P=NP 🤔📚
+
 • Applying for internships 🎯
+
 • Trying to master JavaScript 😵‍💫
