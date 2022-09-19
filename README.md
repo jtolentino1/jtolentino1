@@ -13,14 +13,14 @@ Most of my repos are private, but just ask me to showcase my projects and I'll b
 
 ## What I'm Currently Doing
 
-• Polishing my app development skills 📱
+- Polishing my app development skills 📱
 
-• Grinding Leetcode problems 🧑🏻‍💻📖
+- Grinding Leetcode problems 🧑🏻‍💻📖
 
-• Sending tech memes to my friends 😂
+- Sending tech memes to my friends 😂
 
-• Figuring out whether or not P=NP 🤔📚
+- Figuring out whether or not P=NP 🤔📚
 
-• Applying for internships 🎯
+- Applying for internships 🎯
 
-• Trying to master JavaScript 😵‍💫
+- Trying to master JavaScript 😵‍💫
