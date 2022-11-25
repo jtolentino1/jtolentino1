@@ -21,6 +21,6 @@ Most of my repos are private, but just ask me to showcase my projects and I'll b
 
 - Figuring out whether or not P=NP 🤔📚
 
-- Applying for internships/co-ops 🎯
+- Applying for internship/co-op positions 🎯
 
 - Trying to master TypeScript 😵‍💫
