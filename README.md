@@ -9,18 +9,18 @@ This chart shows the top languages that I have frequently used for my projects (
 
 ![topLangs](https://github-readme-stats-ochre-zeta.vercel.app/api/top-langs/?username=jtolentino1&hide_title=true&card_width=400)
 
-Most of my repos are private, but just ask me to showcase my projects and I'll be happy to walk you through! 😊
+Most of my repos are private, but just ask me to showcase my projects and I'll be happy to walk you through! 
 
 ## What I'm Currently Doing 😁
 
-- Polishing my app development skills 📱
+- Polishing my web/mobile app development skills 
 
-- Grinding Leetcode problems 🧑🏻‍💻📖
+- Grinding Leetcode problems 
 
-- Sending tech memes to my friends 😂
+- Sending tech memes to my friends 
 
-- Figuring out whether or not P=NP 🤔📚
+- Figuring out whether or not P=NP 
 
-- Applying for internship/co-op positions 🎯
+- Applying for internship/co-op positions 
 
-- Trying to master TypeScript 😵‍💫
+- Trying to master TypeScript 
