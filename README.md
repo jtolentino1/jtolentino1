@@ -23,4 +23,4 @@ Most of my repos are private, but just ask me to showcase my projects and I'll b
 
 - Applying for internship/co-op positions 🎯
 
-- Trying to master TypeScript 😵‍💫
+- Messing around with GPT-4 😵‍💫
