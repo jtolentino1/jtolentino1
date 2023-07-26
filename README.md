@@ -2,11 +2,11 @@
 
 ## Background 🌎
 
-I'm currently a student at the University of Calgary pursuing a B.S in Computer Science. Additionaly, I've put my work experience below.
+I'm currently a student at the University of Calgary pursuing a B.S in Computer Science. In addition to that, I have written my work experience below.
 
 ### Work Experience
 
-- Cisco | Software Engineer Intern | May 2023 - Present
+- ![](https://github.com/jtolentino1/jtolentino1/blob/main/logos/cisco_logo.jpeg = 100x100) | Software Engineer Intern | May 2023 - Present
 
 To find out more about me, feel free to check out my [LinkedIn](https://www.linkedin.com/in/jtolentino2/) and connect with me!
 
