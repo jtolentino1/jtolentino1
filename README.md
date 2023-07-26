@@ -6,7 +6,8 @@ I'm currently a student at the University of Calgary pursuing a B.S in Computer 
 
 ### Work Experience
 
-📊 <img src="https://github.com/jtolentino1/jtolentino1/blob/main/logos/cisco_logo.jpeg" width="40" height="40"> Software Engineer Intern | May 2023 - Present
+<img src="https://github.com/jtolentino1/jtolentino1/blob/main/logos/cisco_logo.jpeg" width="50" height="50"> 
+Software Engineer Intern | May 2023 - Present
 
 To find out more about me, feel free to check out my [LinkedIn](https://www.linkedin.com/in/jtolentino2/) and connect with me!
 
