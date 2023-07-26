@@ -7,7 +7,7 @@ I'm currently a student at the University of Calgary pursuing a B.S in Computer 
 
 ### Work Experience
 
-- Cisco 🌐 - May 2023 to May 2024
+- Cisco 📶 - May 2023 to May 2024
 
 ## Frequently Used Languages 📊
 This chart shows the top 8 languages that I have frequently used for my projects (tracks in real time!)
