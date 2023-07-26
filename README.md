@@ -9,10 +9,7 @@ I'm currently a student at the University of Calgary pursuing a B.S in Computer 
 
 <img src="https://github.com/jtolentino1/jtolentino1/blob/main/logos/cisco_logo.jpeg" width="50" height="50"> Cisco 
 
-Canada
-
-Software Engineer Intern | May 2023 - Present
-
+Cisco 📡 - May 2023 to May 2024
 
 ## Frequently Used Languages 📊
 This chart shows the top 8 languages that I have frequently used for my projects (tracks in real time!)
