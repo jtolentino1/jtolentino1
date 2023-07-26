@@ -2,7 +2,8 @@
 
 ## Background 🌎
 
-I'm currently a student at the University of Calgary pursuing a B.S in Computer Science. In addition to that, I have written my work experience below.
+I'm currently a student at the University of Calgary pursuing a B.S in Computer Science. In addition to that, I have written my work experience below. To find out more about me, feel free to check out my [LinkedIn](https://www.linkedin.com/in/jtolentino2/) and connect with me!
+
 
 ### Work Experience
 
@@ -10,8 +11,6 @@ I'm currently a student at the University of Calgary pursuing a B.S in Computer 
 
 Software Engineer Intern | May 2023 - Present
 
-
-To find out more about me, feel free to check out my [LinkedIn](https://www.linkedin.com/in/jtolentino2/) and connect with me!
 
 ## Frequently Used Languages 📊
 This chart shows the top 8 languages that I have frequently used for my projects (tracks in real time!)
