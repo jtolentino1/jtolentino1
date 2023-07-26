@@ -7,9 +7,7 @@ I'm currently a student at the University of Calgary pursuing a B.S in Computer 
 
 ### Work Experience
 
-<img src="https://github.com/jtolentino1/jtolentino1/blob/main/logos/cisco_logo.jpeg" width="50" height="50"> 
-
-Software Engineer Intern | May 2023 - Present
+<img src="https://github.com/jtolentino1/jtolentino1/blob/main/logos/cisco_logo.jpeg" width="50" height="50"> Software Engineer Intern | May 2023 - Present
 
 
 ## Frequently Used Languages 📊
