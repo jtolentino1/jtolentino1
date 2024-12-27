@@ -2,7 +2,7 @@
 
 ## Background 🌎
 
-I'm currently a student at the University of Calgary pursuing a B.S in Computer Science. In addition to that, I have written my work experience below. To find out more about me, feel free to check out my [LinkedIn](https://www.linkedin.com/in/jtolentino2/) and connect with me!
+I'm currently a student at the University of Calgary pursuing a B.S in Computer Science. In addition to that, I have written my work experience below.
 
 
 ### Work Experience
