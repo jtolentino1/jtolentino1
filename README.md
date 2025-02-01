@@ -2,7 +2,7 @@
 
 ## Background 🌎
 
-I'm currently a student at the University of Calgary pursuing a B.S in Computer Science. In addition to that, I have written my work experience below.
+I have a bachelor's degree in Computer Science. Below are my work experiences.
 
 
 ### Work Experience
