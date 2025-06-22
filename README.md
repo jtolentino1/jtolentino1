@@ -8,6 +8,7 @@ I have a bachelor's degree in Computer Science. Below are my work experiences.
 ### Work Experience
 
 - Cisco 📶 - May 2023 to Aug 2024
+  - Software Engineer
 
 ## Frequently Used Languages 📊
 This chart shows the top 8 languages that I have frequently used for my projects (tracks in real time!)
