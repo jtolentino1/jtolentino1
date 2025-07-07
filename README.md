@@ -1,5 +1,7 @@
 # Hi there 👋 here's some info about me!
 
+Check out my personal website: https://tolentino.dev
+
 ## Background 🌎
 
 I have a bachelor's degree in Computer Science. Below are my work experiences.
